@@ -24,7 +24,7 @@ Output: false
 `the col # = mid % total col #`
 
 * When applying **binary research**, let: \
-`mid = left pt + right pt / 2`\
+`mid = (left pt + right pt) / 2`\
 when mid < target, we take the second half:\
 `left pt = mid + 1`\
 when mid > target, we take the first half:\
