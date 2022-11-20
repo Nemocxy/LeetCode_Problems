@@ -15,7 +15,8 @@
 
 ## **Binary Search**
 
-* [74. Search a 2D Matrix [Medium]](https://github.com/Followb1ind1y/LeetCode/blob/main/Binary_Search/0074_Search_a_2D_Matrix.md)
+* [74. Search a 2D Matrix [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Binary_Search/0074_Search_a_2D_Matrix.md)
+
 ## **Matrix**
 
 ## **Backtracking**

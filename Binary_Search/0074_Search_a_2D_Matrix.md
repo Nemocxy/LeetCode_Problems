@@ -17,10 +17,19 @@ Input: matrix = [[1,3,5,7],[10,11,16,20],[23,30,34,60]], target = 13
 Output: false
 ```
 
-### **思路**
-* **因为 `matrix` 内的数字是按顺序排列 所以可以将 `2D matrix` 看作普通 `1D list` 来进行 `binary search` 再将其转换回 `2D` 即可 `(mid_point -> mid_row, mid_col)`**
 
-### **代码**
+### **Solution**
+* We could treat the matrix as an array so that to access the matrix: \
+`the row # = mid / total col #`\
+`the col # = mid % total col #`
+
+* When applying **binary research**, let: \
+`mid = left pt + right pt / 2`\
+when mid < target, we take the second half:\
+`left pt = mid + 1`\
+when mid > target, we take the first half:\
+`right pt = mid - 1`\
+when mid == target, return true, otherwise return false.
 
 ``` JavaScript
 /**
@@ -54,6 +63,6 @@ var searchMatrix = function(matrix, target) {
 
 };
 ```
-### **复杂度分析**
-* **时间复杂度：O(log(m*n))**
-* **空间复杂度：O(1)**
+### **Complexity**
+* **Time：O(log(m*n))**
+* **Space：O(1)**
