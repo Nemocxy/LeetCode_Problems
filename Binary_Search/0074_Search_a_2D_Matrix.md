@@ -31,6 +31,8 @@ when mid > target, we take the first half:\
 `right pt = mid - 1`\
 when mid == target, return true, otherwise return false.
 
+\
+Language: `JavaScript`
 ``` JavaScript
 /**
  * @param {number[][]} matrix
