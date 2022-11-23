@@ -1,4 +1,4 @@
-## **74. Search a 2D Matrix**
+## **77. Combinations**
 
 [LeetCode 77. Combinations [Medium]](https://leetcode.com/problems/combinations/description/)
 
