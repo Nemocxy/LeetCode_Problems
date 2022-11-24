@@ -1,6 +1,8 @@
 # **LeetCode Problems' Solutions**
 ## **Array**
 
+* [01. Two Sum [Easy]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Array/0001_Two_Sum.md)
+
 ## **String**
 
 ## **Linked List**
