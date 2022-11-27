@@ -20,7 +20,7 @@
 * [74. Search a 2D Matrix [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Binary_Search/0074_Search_a_2D_Matrix.md)
 
 ## **Bit Manipulation**
-* [461. Hamming Distance] (https://github.com/Nemocxy/LeetCode_Problems/blob/main/Bit_Manipulation/0461_Hamming_Distance.md)
+* [461. Hamming Distance](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Bit_Manipulation/0461_Hamming_Distance.md)
 
 ## **Matrix**
 
