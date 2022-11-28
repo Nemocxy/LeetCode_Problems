@@ -4,6 +4,7 @@
 * [01. Two Sum [Easy]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Array/0001_Two_Sum.md)
 
 ## **String**
+* [03. Longest Substring Without Repeating Characters [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/String/0003_Longest_Substring_Without_Repeating_Characters.md)
 
 ## **Linked List**
 * [02. Add Two Numbers [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Linked_List/0002_Add_Two_Numbers.md)
