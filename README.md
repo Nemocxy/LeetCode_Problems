@@ -5,6 +5,7 @@
 
 ## **String**
 * [03. Longest Substring Without Repeating Characters [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/String/0003_Longest_Substring_Without_Repeating_Characters.md)
+* [05. Longest Palindromic Substring [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/String/0005_Longest_Palindromic_Substring.md)
 
 ## **Linked List**
 * [02. Add Two Numbers [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Linked_List/0002_Add_Two_Numbers.md)
@@ -14,6 +15,7 @@
 ## **Math**
 
 ## **Dynamic Programming**
+* [05. Longest Palindromic Substring [Medium]](https://github.com/Nemocxy/LeetCode_Problems/blob/main/Dynamic_Programming/0005_Longest_Palindromic_Substring.md)
 
 ## **Tree**
 
